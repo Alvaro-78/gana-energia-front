@@ -1,0 +1,29 @@
+.footerBody {
+    width: 100%;
+    height: 15em;
+    background-color: #44494C ;    
+    display: flex;
+    color:white;
+}
+
+.icon {
+    display: flex;
+    flex-direction: row;
+    width: 10em;
+    height: 1.5em;
+    margin-top: 1em;
+}
+
+.divRedes {
+    margin-top: 2em;
+}
+
+.footer {
+    margin-top: 10em;
+    width: 100em;
+}
+
+.textFooter {
+    margin-top: 4em;
+    margin-right: 4em;
+}
