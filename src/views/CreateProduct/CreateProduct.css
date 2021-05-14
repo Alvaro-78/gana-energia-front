@@ -1,0 +1,38 @@
+.createProductContainer {
+    width: 100%;
+    height: 65em;
+    background-size: cover;
+    background-image: url('../../assets/Images/fondo.jpeg');
+    color: white;
+}
+
+.spaceUnderH1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6em;
+    color:#FFFB33;
+}
+
+.createProductBody {
+    width: 100%;
+    display: flex;
+}
+
+.productForm {
+    margin-left: 3em;
+    width: 30em;
+}
+
+.dataContainer {
+    margin-top: 4em;
+    width: 60em;
+}
+
+.spaceBtw {
+    height: 2em;
+}
+
+.data {
+    margin-bottom: 1em;
+}
