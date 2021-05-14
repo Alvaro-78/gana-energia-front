@@ -1,0 +1,21 @@
+.homeBody {
+    width: 100%;
+    height: 65em;
+    background-size: cover;
+    background-image: url('../../assets/Images/fondo.jpeg');
+}
+
+.textContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15em;
+    color:#FFFB33;
+}
+
+.formBody {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 29em;
+}
