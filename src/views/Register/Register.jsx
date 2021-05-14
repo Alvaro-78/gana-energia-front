@@ -48,7 +48,7 @@ const Register = () => {
         setRegister({
              ...register, userRegister: resultRegister.data
         })
-        setTimeout(() => {history.push('/create-product')}, 1000);
+        setTimeout(() => {history.push('/')}, 1000);
 
     };
 
