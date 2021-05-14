@@ -1,0 +1,31 @@
+.show-productContainer {
+    width: 100%;
+    height: 65em;
+    background-size: cover;
+    background-image: url('../../assets/Images/fondo.jpeg');
+}
+
+.drawProduct {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 5em;
+    margin-left: 4em;
+    width: 100%;
+    height: 40%;
+}
+
+.picture {
+    width: 8em;
+    height: 6em;
+}
+
+.card {
+    align-items: center;
+    justify-content: center;
+    width: 15em;
+}
+
+.underNav {
+   height: 4em;
+}
